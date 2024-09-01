@@ -1,7 +1,3 @@
-Sure, here’s a visually appealing and engaging README for your GitHub profile, featuring icons and highlighting your work:
-
----
-
 # 👋 Hello, I'm Ankan Mandal!
 
 Welcome to my GitHub profile! I'm passionate about building and learning with modern technologies. Here’s a quick overview of what I'm currently working on:
@@ -30,7 +26,3 @@ Feel free to reach out to me:
 - [LinkedIn](https://www.linkedin.com/in/ankan-mandal)
 - [Twitter](https://twitter.com/ankan_mandal)
 - Or open an issue here if you want to collaborate or discuss exciting projects! 😄
-
----
-
-Feel free to update the placeholder links and any other details to better fit your preferences!
