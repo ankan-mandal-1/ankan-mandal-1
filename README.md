@@ -23,6 +23,4 @@ Welcome to my GitHub profile! I'm passionate about building and learning with mo
 
 Feel free to reach out to me:
 
-- [LinkedIn](https://www.linkedin.com/in/ankan-mandal)
-- [Twitter](https://twitter.com/ankan_mandal)
 - Or open an issue here if you want to collaborate or discuss exciting projects! 😄
